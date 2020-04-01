@@ -1,2 +1,2 @@
 # Shortest-path-algo
-Djikstra's algorithm to find shortest path between any two cities in USA
+Project for the Course Computing for Analytics, Purdue University.
